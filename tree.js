@@ -28,6 +28,4 @@ function scan(dirPath) {
 
 console.log("Welcome to Tree 🌳");
 
-
-
 scan("/Users/rudydelorenzo/Documents/University of Alberta");
