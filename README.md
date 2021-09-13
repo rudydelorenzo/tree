@@ -1,6 +1,4 @@
-# Welcome to tree 🌳 
-
----
+# Welcome to tree 🌳
 
 ## What is tree?
 `This repo is part of a 10-minute speed coding challenge`
